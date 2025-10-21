@@ -1,5 +1,6 @@
 # Portfolio_Risk_Analyzer
-Simulates portfolio and S&P500 variance using block bootstrap in Jupyter Notebook using Python and visualized in PowerBI
+Simulates portfolio and S&P500 variance using a block bootstrap in Jupyter Notebook using Python and visualized in PowerBI
+MSFT, AMZN, AAPL, and GOOGL were used as example stocks in the portfolio with 25% weight each
 Currently simulates 10-year portfolio growth, but year and stock variables can be changed to produce different growth results
 Calculates 25th, 50th, and 75th percentile growth bands and Sharpe Ratios for the portfolio and the S&P500
 Finds Betas for the portfolio using the 3-Factor Model 
